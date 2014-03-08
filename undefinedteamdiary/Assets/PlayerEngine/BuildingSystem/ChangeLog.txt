@@ -1,0 +1,13 @@
+Advanced Building System nDev
+
+Version 1.1
+
+1.)On step-mode moving the step is now the model's dimension on the axis you are going to move it.
+2.)When you exit the build mod and open it again the building object's position and rotation is again on default.
+3.)You can now change through the inspector the object's default position and rotation, any changed made from the
+spawnPos GameObject in editor will not be counted, to change the spawnPos use the script.
+4.)Keys customization on moving keys in now working, added two more keys, the up/down to move your object up or down.
+5.)If you are in camera mod and you exit build mod the camera now is automatic returning back to start position.
+6.)Sounds are now added, whenever you build an object a sound is played, and when you don't have enough object an other sound is played.
+7.)When you building the preview of the object is now with green (you can modify the color).
+8.)System now display the name of the selected object. You can use your own gui skin and also you can toggle this option on/off.

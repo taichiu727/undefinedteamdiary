@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: fe5ee68bfbe376346978eca56b78f80f
+ShaderImporter:
+  defaultTextures:
+  - _MainTexture: {instanceID: 0}
+  - _Normal: {instanceID: 0}
+  - _IBL1: {fileID: 8900000, guid: 63eacae2280503b4ab3916e043f3905f, type: 2}
+  - _IBLSpec: {fileID: 8900000, guid: a84222c137f6cc84abc3743a1dd7f5e8, type: 2}
+  userData: 
